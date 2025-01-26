@@ -56,11 +56,9 @@ Si deseas modificar las preguntas o personalizar el diseño:
 
 - **Preguntas:** Edita el archivo `src/Assets/data.js` (o el archivo donde almacenes las preguntas).
 
-
-
-
-## 📝 **Licencia**
-
-Este proyecto está bajo la licencia MIT. Puedes consultarla [aquí](./LICENSE).
-
 ---
+## 🌐 **Demo**
+
+Prueba la aplicación en vivo: [Quiz App Demo](https://quizbasic.netlify.app)
+
+
